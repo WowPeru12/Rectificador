@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(79, 214, 185);
+}
+.logo{
+    display: block;
+    margin: 0px auto;
+}
+
+.titulo{
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-size: 100px;
+}
+.palabra{
+    font-family: 'Times New Roman';
+    font-size: 50px;
+}
+
+.lista{
+    font-size: 50px;
+    font-family: 'Times New Roman';
+    list-style: none;
+}
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+}
+a:visited{
+    color: purple;
+}
